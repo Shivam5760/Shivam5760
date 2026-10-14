@@ -4,7 +4,7 @@
 An enthusiastic Computer Science student, AI/ML developer, and systems enthusiast passionate about building practical software solutions, intelligent systems, and scalable workflows.
 
 ---
-
+<img align="right" src="33550.jpg" alt="Nerdy Totoro" width="150" />
 ### 👨‍💻 About Me
 
 - 🎓 Pursuing B.E. in **Computer Science & Engineering** at Prof. Ram Meghe Institute of Technology & Research (Expected 2027).
