@@ -53,7 +53,7 @@ An enthusiastic Computer Science student, AI/ML developer, and systems enthusias
 
 ### 📌 Featured Projects
 
-- 🛡️ **[BioTrack AI / Snap Class](https://github.com/Shivam5760/biometric_dual_identity_verification):** Multi-modal identity verification & automated attendance management combining OpenCV facial recognition and Resemblyzer voice verification[cite: 5, 6].
+- 🛡️ **[AI-Biometric-verification](https://github.com/Shivam5760/biometric_dual_identity_verification):** Multi-modal identity verification & automated attendance management combining OpenCV facial recognition and Resemblyzer voice verification.
 - 🤖 **Automated Support Triage System:** Intelligent ticket classification and routing pipeline utilizing n8n automation and generative model APIs.
 
 ---
